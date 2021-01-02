@@ -1,24 +1,32 @@
 
+/* All Page Formatting */
 
-.main-form {
-    width: 450px;
-    margin: center;
+.gradient {
+    background-color: #ddd1ed;
+    background-image: radial-gradient(#ddd1ed, #b3e6d7);
+  }
+
+
+.navbar {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f09c80;
+
 }
-
-.image {
-    margin: 20px auto;
-}
-
 
 .footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  background-color:lightgray;
   color: white;
   text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  
 }
+
+
+/* About Me Formatting */
 
 
 #about-img {
@@ -30,5 +38,19 @@
 .block {
     padding: 30px;
     margin-bottom: 30px;
+
+}
+
+/* Portfolio Page Formatting */
+
+.image {
+    margin: 20px auto;
+}
+
+/* Contact Me Formatting */
+
+.main-form {
+    width: 450px;
+    margin: center;
 }
 
