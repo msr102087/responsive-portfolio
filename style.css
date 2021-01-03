@@ -1,15 +1,27 @@
 
 /* All Page Formatting */
 
-.gradient {
-    background-color: #ddd1ed;
-    background-image: radial-gradient(#ddd1ed, #b3e6d7);
+#bg {
+    position: fixed; 
+    top: -50%; 
+    left: -50%; 
+    width: 200%; 
+    height: 200%;
   }
-
+  #bg img {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    right: 0; 
+    bottom: 0; 
+    margin: auto; 
+    min-width: 50%;
+    min-height: 50%;
+  }
 
 .navbar {
     font-family: 'Montserrat', sans-serif;
-    background-color: #f09c80;
+    font-size: large;
 
 }
 
@@ -18,8 +30,8 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:lightgray;
-  color: white;
+  background-color:#cccccc;
+  color: black;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   
@@ -31,6 +43,7 @@
 
 #about-img {
     float: left;
+    padding-right: 50px ;
     margin: 0 20px 10px 0s
     
 }
@@ -40,6 +53,7 @@
     margin-bottom: 30px;
 
 }
+
 
 /* Portfolio Page Formatting */
 
