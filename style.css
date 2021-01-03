@@ -19,6 +19,10 @@
     min-height: 50%;
   }
 
+  .bg-navbar {
+      background: #FFE4C4;
+  }
+
 .navbar {
     font-family: 'Montserrat', sans-serif;
     font-size: large;
@@ -30,7 +34,7 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color:#cccccc;
+  background-color:#FFE4C4;
   color: black;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
