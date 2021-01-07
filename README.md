@@ -12,4 +12,6 @@ This project was created using Bootstrap and Bootstrap Grid Layout.  All HTML an
 
 When deployed the site should look as follows:
 
-![image](https://user-images.githubusercontent.com/74628028/103848815-1a172280-5058-11eb-855b-5aaabc9127f1.png)
+![About-Me-Page](https://user-images.githubusercontent.com/74628028/103848815-1a172280-5058-11eb-855b-5aaabc9127f1.png)
+
+![image](https://user-images.githubusercontent.com/74628028/103848947-711cf780-5058-11eb-95d9-1d27aacd7a06.png)
