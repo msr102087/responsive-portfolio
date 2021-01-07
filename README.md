@@ -18,5 +18,5 @@ When deployed the site should look as follows:
 
 ![Contact-Me](https://user-images.githubusercontent.com/74628028/103849069-ade8ee80-5058-11eb-8081-82f3e0959517.png)
 
-[Follow this link to view site](https://msr102087.github.io/responsive-portfolio/)
+Follow this link to view site:  [https://msr102087.github.io/responsive-portfolio/](https://msr102087.github.io/responsive-portfolio/)
 
